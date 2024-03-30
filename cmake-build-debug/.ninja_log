@@ -1,0 +1,6 @@
+# ninja log v5
+10	306	7334907191820492	CMakeFiles/Neipier_Cal.dir/structs.cpp.obj	5919570d1e533b70
+652	827	7334988900204088	Neipier_Cal.exe	2db4079d2aaffb17
+35	337	7334907192130016	CMakeFiles/Neipier_Cal.dir/for_table.cpp.obj	773ee74bd575fd11
+8	650	7334988898459067	CMakeFiles/Neipier_Cal.dir/main.cpp.obj	82f3b84e33030e78
+2	226	7335038857167355	build.ninja	933e84d43a3b2469
